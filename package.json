@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "start": "npm run serve"
+    "start": "serve dist"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.49.4",
